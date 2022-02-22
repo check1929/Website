@@ -3,6 +3,6 @@
   <title>PHP-Test</title>
  </head>
  <body>
- <p>Hallo Welt</p>
+ <p>Hallo </p>
  </body>
 </html>
